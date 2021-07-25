@@ -1,0 +1,1 @@
+g++ *.cpp -o build -lSDL2 -lSDL2_image
